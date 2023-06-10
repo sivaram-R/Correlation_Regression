@@ -55,5 +55,7 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 # Result
+![prob 2](https://github.com/sivaram-R/Correlation_Regression/assets/121165794/eedba8b4-fd0a-4af4-871e-b2b4ee8e7ad1)
 
 # Output 
+thus  Correlation and regression for data analysis is found.
